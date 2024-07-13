@@ -1,0 +1,20 @@
+// step to create order management system
+1. Flow
+    1. User -> system/app
+    2. number of functionlaity
+        a. view product
+        b. Add/Delete Product cart
+        c. place Order -> Invoice
+        d. Payment/Checkout
+    3. Objects:
+        a. User
+        b. Product
+        c. Cart
+        d. Order
+        e. Payment -> Invoice
+        f. Inventory
+        g. Warehouse
+
+
+
+
