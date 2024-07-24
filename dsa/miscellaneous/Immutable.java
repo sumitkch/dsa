@@ -1,4 +1,4 @@
-package solid;
+package dsa.miscellaneous;
 
 import java.util.Date;
 

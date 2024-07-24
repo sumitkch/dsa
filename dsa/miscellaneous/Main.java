@@ -1,7 +1,6 @@
-package solid;
+package dsa.miscellaneous;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class Main {
     //stack operation
