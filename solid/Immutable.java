@@ -1,3 +1,5 @@
+package solid;
+
 import java.util.Date;
 
 public final class Immutable {

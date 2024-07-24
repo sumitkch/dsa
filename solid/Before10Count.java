@@ -1,3 +1,5 @@
+package solid;
+
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class Before10Count implements Runnable{
