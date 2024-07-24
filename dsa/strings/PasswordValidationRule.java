@@ -1,9 +1,6 @@
-package dsa;
+package dsa.strings;
 
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
-public class BitGO {
+public class PasswordValidationRule {
     public static String StringChallenge(String str) {
         // code goes here
         if(str.length()<=7 || str.length()>31)
